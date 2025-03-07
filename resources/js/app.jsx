@@ -8,7 +8,7 @@ createInertiaApp({
 
   setup({ el, App, props, }) {
 
-    createApp({ render: () => h(App, props) })
+    createRoot(el).render(<App {...props} />)
 
 
 

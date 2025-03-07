@@ -1,7 +1,7 @@
-export default function login () {
+export default function Login () {
     return (
         <h1>
-            Hola Gonorrea desde react en laravel
+            Hola mundo desde react en laravel
         </h1>
     )
 }
