@@ -3,6 +3,10 @@
         "ms-azuretools.vscode-docker",
         "devsense.composer-php-vscode",
         "devsense.phptools-vscode",
-        "bmewburn.vscode-intelephense-client"
+        "eamodio.gitlens",
+        "devsense.intelli-php-vscode",
+        "devsense.profiler-php-vscode",
+        "esbenp.prettier-vscode",
+        "timonwong.shellcheck"
     ]
 }
